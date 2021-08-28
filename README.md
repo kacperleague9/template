@@ -2,7 +2,7 @@
 
 > A dark theme for [Visual Spigot](https://www.spigotmc.org/resources/visual-spigot.87912/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./a0qVUW7.png)
 
 ## Install
 
